@@ -36,13 +36,6 @@ I'm a passionate Full Stack Developer with hands-on experience in building **res
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hitendra213&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitendra213&layout=compact&theme=radical)
-
----
-
 ### 🔗 Let's Connect!
 
 📬 **Email:** hitendrasinhmatroja21@gmail.com  
